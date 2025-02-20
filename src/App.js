@@ -22,8 +22,8 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-        <Route path="/" element={<Navigate to="/iguyflicks" />} />
-          <Route path="/iguyflicks" element={<Home />} />
+        <Route path="/" element={<Navigate to="/iguypictures" />} />
+          <Route path="/iguypictures" element={<Home />} />
           <Route path="/flicks" element={<Flicks />} />
           <Route path ="/memorial" element={<Memorial />} />
         </Routes>

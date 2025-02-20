@@ -22,7 +22,7 @@ function Navbar() {
         <div className={`navbar-links ${isOpen ? 'open' : ''}`}>
           <ul>
             <li>
-              <Link to="/" onClick={toggleNavbar}>Home</Link>
+              <Link to="/iguypictures" onClick={toggleNavbar}>Home</Link>
             </li>
             <li>
             <Link to ='/Flicks' onClick={toggleNavbar}>Halloween</Link>

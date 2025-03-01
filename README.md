@@ -1,4 +1,4 @@
-:
+<p>https://iguy1.github.io/iguypictures/</p>
 
 📷 Personal Photography Website
 🌍 A React-based platform to showcase my photography captured at the University of Delaware.
